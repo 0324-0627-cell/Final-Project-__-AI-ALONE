@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 588729658983a66459249bf614552f0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2486463975146102231
+    second: PIn4G4_0
+  - first:
+      213: 380594056913623806
+    second: PIn4G4_1
+  - first:
+      213: 396062662419088560
+    second: PIn4G4_2
+  - first:
+      213: 6471873802501573817
+    second: PIn4G4_3
+  - first:
+      213: 542044774511156514
+    second: PIn4G4_4
+  - first:
+      213: -4827324629686638698
+    second: PIn4G4_5
+  - first:
+      213: -470623752798320355
+    second: PIn4G4_6
+  - first:
+      213: 719427982004655927
+    second: PIn4G4_7
+  - first:
+      213: -8979396758179373432
+    second: PIn4G4_8
+  - first:
+      213: 3456572325684048681
+    second: PIn4G4_9
+  - first:
+      213: 8936154388760728876
+    second: PIn4G4_10
+  - first:
+      213: -5308635720133593092
+    second: PIn4G4_11
+  - first:
+      213: 5352692512021665553
+    second: PIn4G4_12
+  - first:
+      213: -9108738367283573437
+    second: PIn4G4_13
+  - first:
+      213: 414078717638203120
+    second: PIn4G4_14
+  - first:
+      213: 5945626426204851750
+    second: PIn4G4_15
+  - first:
+      213: -2270809240742309503
+    second: PIn4G4_16
+  - first:
+      213: 7205518507203553896
+    second: PIn4G4_17
+  - first:
+      213: -7685770655670025487
+    second: PIn4G4_18
+  - first:
+      213: 7685280383998374374
+    second: PIn4G4_19
+  - first:
+      213: 5622997053028673835
+    second: PIn4G4_20
+  - first:
+      213: -579618043961702072
+    second: PIn4G4_21
+  - first:
+      213: 3659700286702585920
+    second: PIn4G4_22
+  - first:
+      213: 629762712587986726
+    second: PIn4G4_23
+  - first:
+      213: 9015785728361240749
+    second: PIn4G4_24
+  - first:
+      213: -4160386100004804251
+    second: PIn4G4_25
+  - first:
+      213: 954918699789133473
+    second: PIn4G4_26
+  - first:
+      213: 3220827977795897170
+    second: PIn4G4_27
+  - first:
+      213: 394177393029962558
+    second: PIn4G4_28
+  - first:
+      213: 9141064583945510934
+    second: PIn4G4_29
+  - first:
+      213: -7875869903539276703
+    second: PIn4G4_30
+  - first:
+      213: 916126253721730612
+    second: PIn4G4_31
+  - first:
+      213: -2783283443531184943
+    second: PIn4G4_32
+  - first:
+      213: 5104402095610091987
+    second: PIn4G4_33
+  - first:
+      213: 6876063273678544465
+    second: PIn4G4_34
+  - first:
+      213: 879524155870634543
+    second: PIn4G4_35
+  - first:
+      213: -6960234857273667937
+    second: PIn4G4_36
+  - first:
+      213: 5442915845530676224
+    second: PIn4G4_37
+  - first:
+      213: -6376294623469456804
+    second: PIn4G4_38
+  - first:
+      213: 2628029510957475602
+    second: PIn4G4_39
+  - first:
+      213: -9125382558321303942
+    second: PIn4G4_40
+  - first:
+      213: -3353280649606687434
+    second: PIn4G4_41
+  - first:
+      213: -6580844863797865254
+    second: PIn4G4_42
+  - first:
+      213: -2517750319200078410
+    second: PIn4G4_43
+  - first:
+      213: 6526268788268164748
+    second: PIn4G4_44
+  - first:
+      213: 2547690865514510027
+    second: PIn4G4_45
+  - first:
+      213: -1593207406253014330
+    second: PIn4G4_46
+  - first:
+      213: 3110922991784240704
+    second: PIn4G4_47
+  - first:
+      213: 8034515656086211220
+    second: PIn4G4_48
+  - first:
+      213: -1041615631781021637
+    second: PIn4G4_49
+  - first:
+      213: -8057294871197753789
+    second: PIn4G4_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PIn4G4_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 200
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9226c9e303e4e7dd0800000000000000
+      internalID: -2486463975146102231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 257
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa16fd3744284500800000000000000
+      internalID: 380594056913623806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 255
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4094e94e81f7500800000000000000
+      internalID: 396062662419088560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 173
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc43451fe6b0d950800000000000000
+      internalID: 6471873802501573817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 191
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d181db9dab58700800000000000000
+      internalID: 542044774511156514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 191
+        width: 14
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697a80853d5e10db0800000000000000
+      internalID: -4827324629686638698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d194897b0320879f0800000000000000
+      internalID: -470623752798320355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 193
+        width: 21
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7371ddc10fbebf900800000000000000
+      internalID: 719427982004655927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 226
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e9c6b2936c26380800000000000000
+      internalID: -8979396758179373432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f7dc673638ff20800000000000000
+      internalID: 3456572325684048681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 193
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2591202219930c70800000000000000
+      internalID: 8936154388760728876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7bc7b50ffe356b0800000000000000
+      internalID: -5308635720133593092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d1fada75984a40800000000000000
+      internalID: 5352692512021665553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 163
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d471217b2479180800000000000000
+      internalID: -9108738367283573437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 165
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6dfd9566a1fb500800000000000000
+      internalID: 414078717638203120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 139
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e8d1dbbbb138250800000000000000
+      internalID: 5945626426204851750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18151ecd6077c70e0800000000000000
+      internalID: -2270809240742309503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aee54e7e42ff360800000000000000
+      internalID: 7205518507203553896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 165
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2caa34f48a65590800000000000000
+      internalID: -7685770655670025487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 165
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e130877ac997aa60800000000000000
+      internalID: 7685280383998374374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 138
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29a7de1706e80e40800000000000000
+      internalID: 5622997053028673835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 131
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8498140c578c4f7f0800000000000000
+      internalID: -579618043961702072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0488d45550ed9c230800000000000000
+      internalID: 3659700286702585920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 138
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627e798b9dd5db800800000000000000
+      internalID: 629762712587986726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 143
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8120e2a518e1d70800000000000000
+      internalID: 9015785728361240749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569adbc72e65346c0800000000000000
+      internalID: -4160386100004804251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62f428f7d804d00800000000000000
+      internalID: 954918699789133473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 95
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2570a2b2bfda2bc20800000000000000
+      internalID: 3220827977795897170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b5a022046687500800000000000000
+      internalID: 394177393029962558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 129
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610e9f2cec59bde70800000000000000
+      internalID: 9141064583945510934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 47
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f9560d0a43b290800000000000000
+      internalID: -7875869903539276703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3e7259fbb6bc00800000000000000
+      internalID: 916126253721730612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 99
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4091f547acf59d0800000000000000
+      internalID: -2783283443531184943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9599369aa76d640800000000000000
+      internalID: 5104402095610091987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 105
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e18b0dd1fac6f50800000000000000
+      internalID: 6876063273678544465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 106
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f226b025f82b43c00800000000000000
+      internalID: 879524155870634543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e49e23647486f90800000000000000
+      internalID: -6960234857273667937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c633baf1f198b40800000000000000
+      internalID: 5442915845530676224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52bed0b2d9d287a0800000000000000
+      internalID: -6376294623469456804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 74
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2172dd39ae2a87420800000000000000
+      internalID: 2628029510957475602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e96bb59e02c5180800000000000000
+      internalID: -9125382558321303942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63590000401c671d0800000000000000
+      internalID: -3353280649606687434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 66
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4df5396742ca4a0800000000000000
+      internalID: -6580844863797865254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5f3fe9c672f0dd0800000000000000
+      internalID: -2517750319200078410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c866171a2e6f19a50800000000000000
+      internalID: 6526268788268164748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ff7c08573b5320800000000000000
+      internalID: 2547690865514510027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 33
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c284c02e4ac3e9e0800000000000000
+      internalID: -1593207406253014330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04625e88af73c2b20800000000000000
+      internalID: 3110922991784240704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4557ab65508f60800000000000000
+      internalID: 8034515656086211220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38b2330a107b81f0800000000000000
+      internalID: -1041615631781021637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIn4G4_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e5ea7010dbe2090800000000000000
+      internalID: -8057294871197753789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PIn4G4_0: -2486463975146102231
+      PIn4G4_1: 380594056913623806
+      PIn4G4_10: 8936154388760728876
+      PIn4G4_11: -5308635720133593092
+      PIn4G4_12: 5352692512021665553
+      PIn4G4_13: -9108738367283573437
+      PIn4G4_14: 414078717638203120
+      PIn4G4_15: 5945626426204851750
+      PIn4G4_16: -2270809240742309503
+      PIn4G4_17: 7205518507203553896
+      PIn4G4_18: -7685770655670025487
+      PIn4G4_19: 7685280383998374374
+      PIn4G4_2: 396062662419088560
+      PIn4G4_20: 5622997053028673835
+      PIn4G4_21: -579618043961702072
+      PIn4G4_22: 3659700286702585920
+      PIn4G4_23: 629762712587986726
+      PIn4G4_24: 9015785728361240749
+      PIn4G4_25: -4160386100004804251
+      PIn4G4_26: 954918699789133473
+      PIn4G4_27: 3220827977795897170
+      PIn4G4_28: 394177393029962558
+      PIn4G4_29: 9141064583945510934
+      PIn4G4_3: 6471873802501573817
+      PIn4G4_30: -7875869903539276703
+      PIn4G4_31: 916126253721730612
+      PIn4G4_32: -2783283443531184943
+      PIn4G4_33: 5104402095610091987
+      PIn4G4_34: 6876063273678544465
+      PIn4G4_35: 879524155870634543
+      PIn4G4_36: -6960234857273667937
+      PIn4G4_37: 5442915845530676224
+      PIn4G4_38: -6376294623469456804
+      PIn4G4_39: 2628029510957475602
+      PIn4G4_4: 542044774511156514
+      PIn4G4_40: -9125382558321303942
+      PIn4G4_41: -3353280649606687434
+      PIn4G4_42: -6580844863797865254
+      PIn4G4_43: -2517750319200078410
+      PIn4G4_44: 6526268788268164748
+      PIn4G4_45: 2547690865514510027
+      PIn4G4_46: -1593207406253014330
+      PIn4G4_47: 3110922991784240704
+      PIn4G4_48: 8034515656086211220
+      PIn4G4_49: -1041615631781021637
+      PIn4G4_5: -4827324629686638698
+      PIn4G4_50: -8057294871197753789
+      PIn4G4_6: -470623752798320355
+      PIn4G4_7: 719427982004655927
+      PIn4G4_8: -8979396758179373432
+      PIn4G4_9: 3456572325684048681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
